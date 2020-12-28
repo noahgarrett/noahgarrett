@@ -21,7 +21,7 @@ I'm Noah Garrett, a senior Computer Science student at [Western Govenors Univers
 
 #### Bizness
 - :paperclip: [My Resume](https://github.com/noahgarrett/noahgarrett/blob/master/resume/Noah%20Resume.pdf)
-- :email: ipenywis@gmail.com
+- :email: noahgarrett99@gmail.com
 
 
 #### Profile Visits 
