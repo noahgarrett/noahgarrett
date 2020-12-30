@@ -39,7 +39,8 @@ I'm Noah Garrett, a senior Computer Science student at [Western Govenors Univers
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   12 mins         ████████████████████▓░░░░   83.05 % 
+YAML       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 ```
 <!--END_SECTION:waka-->
 
