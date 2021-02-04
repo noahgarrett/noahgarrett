@@ -7,7 +7,7 @@ I'm Noah Garrett, a senior Computer Science student at [Western Govenors Univers
 [![Linkedin Badge](https://img.shields.io/badge/-Noah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-garrett-39a2011ba/) [![Mail Badge](https://img.shields.io/badge/-noahgarrett99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noahgarrett99@gmail.com)
 
 - 🔭 I'm currently working towards a production quality **React** application.
-- 🏗️ I am the owner of [Crab Pool](https://www.crabpool.us/) and co-owner of Psychotic Studios, LLC.
+- 🏗️ I am the owner of [Crab Pool](https://crabpool.us/) and co-owner of Psychotic Studios, LLC.
 - :computer: Most used line of code `python main.py`
 - 📫 How to reach me: noahgarrett99@gmail.com.
 
