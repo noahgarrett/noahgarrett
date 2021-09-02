@@ -40,11 +40,11 @@ I'm Noah Garrett, a senior Computer Science student at [Western Govenors Univers
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 52 mins    ██████████████░░░░░░░░░░░   56.34 % 
-Other        36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 % 
-HTML         24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-YAML         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-JSON         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+JavaScript   1 hr 23 mins    ████████████▒░░░░░░░░░░░░   48.93 % 
+Other        36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.61 % 
+HTML         24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+YAML         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+JSON         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 ```
 <!--END_SECTION:waka-->
 
