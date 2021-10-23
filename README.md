@@ -40,7 +40,7 @@ I'm Noah Garrett, a senior Computer Science student at [Western Govenors Univers
 
 <!--START_SECTION:waka-->
 ```text
-Brainfuck          1 hr 23 mins    █████████████░░░░░░░░░░░░   52.15 % 
+Brainfuck          1 hr 23 mins    █████████████░░░░░░░░░░░░   52.14 % 
 Python             46 mins         ███████▒░░░░░░░░░░░░░░░░░   28.68 % 
 JavaScript         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 reStructuredText   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
