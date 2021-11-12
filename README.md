@@ -6,8 +6,8 @@ I'm Noah Garrett, a senior Computer Science student at [Western Govenors Univers
 
 [![Linkedin Badge](https://img.shields.io/badge/-Noah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-garrett-39a2011ba/) [![Mail Badge](https://img.shields.io/badge/-noahgarrett99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noahgarrett99@gmail.com)
 
-- 🔭 I'm currently working towards a production quality **.NET Core 5** application.
-- 🏗️ I am the owner of [Jerboa Pool](https://jerboapool.com/) and co-owner of Jerboa Technologies, LLC.
+- 🔭 I'm currently working towards a production quality **ASP.NET 6** application.
+- 🏗️ I am a co-owner of SEYA Software, LLC.
 - :computer: Most used line of code `dotnet run`
 - 📫 How to reach me: noahgarrett99@gmail.com.
 
