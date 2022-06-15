@@ -6,8 +6,7 @@ I'm Noah Garrett, a senior Computer Science student at [Western Govenors Univers
 
 [![Linkedin Badge](https://img.shields.io/badge/-Noah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-garrett-39a2011ba/) [![Mail Badge](https://img.shields.io/badge/-noahgarrett99-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noahgarrett99@gmail.com)
 
-- 🔭 I'm currently working towards a production quality **ASP.NET 6** application.
-- 🏗️ I am a co-owner of SEYA Software, LLC.
+- 🔭 I have currently developed and released a national Auto-Auction Management application by the name of Auction101.
 - :computer: Most used line of code `dotnet run`
 - 📫 How to reach me: noahgarrett99@gmail.com.
 
@@ -16,13 +15,7 @@ I'm Noah Garrett, a senior Computer Science student at [Western Govenors Univers
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-
 <br />
-
-#### Business
-- :paperclip: [My Resume](https://github.com/noahgarrett/noahgarrett/blob/master/resume/Noah%20Resume.pdf)
-- :email: noahgarrett99@gmail.com
 
 
 #### Profile Visits 
