@@ -16,7 +16,7 @@ These are technologies that I have used in a professional environment.
     - On Azure I have maintained and released API versions for multiple ASP.NET APIs
  
 ## Personal Skills and Interests
-- Compiler Design, Programming Langugae Development, Lexical Analysis
+- Compiler Design, Programming Language Development, Lexical Analysis
   - This is my main hobby, and I have created multiple languages.
   - I also teach others how to write their own programming language on [Youtube](https://youtube.com/playlist?list=PLCJHRjnsxJFoK8e-RaNZUa7R4BaPqczHX&si=HuwUakqyEiIocFl6) and on [Medium](https://medium.com/@codeduckers)
   - Custom Languages
