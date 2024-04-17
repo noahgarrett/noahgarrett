@@ -20,7 +20,7 @@ These are technologies that I have used in a professional environment.
   - This is my main hobby, and I have created multiple languages.
   - I also teach others how to write their own programming language on [Youtube](https://youtube.com/playlist?list=PLCJHRjnsxJFoK8e-RaNZUa7R4BaPqczHX&si=HuwUakqyEiIocFl6) and on [Medium](https://medium.com/@codeduckers)
   - Custom Languages
-    - [Lime_OLD](https://github.com/noahgarrett/Lime_OLD) is a JIT compiled language built with Python and LLVM. This particular repository is for a past iteration. The new iteration that follows with the Youtube series will be on my profile in the near future.
+    - [LimeLang](https://github.com/noahgarrett/LimeLang) is a statically typed, JIT compiled language built with Python and LLVM.
     - [Eva](https://github.com/noahgarrett/eva-llvm-language) is a statically compiled language built with C++ and LLVM.
     - I also have a full repository of other [Bytecode compiled languages](https://github.com/noahgarrett/ProgrammingLanguages) with a custom Virtual Machines written in Go, C#, C, and Python.
 - ML.NET, .NET MAUI
